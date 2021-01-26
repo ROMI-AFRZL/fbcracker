@@ -1,4 +1,6 @@
-# fbcracker
+<h1 align="center">
+ fbcracker
+
 ### command
 ````
 pkg update && pkg upgrade
