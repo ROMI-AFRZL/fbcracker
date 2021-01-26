@@ -1,5 +1,9 @@
 <h1 align="center">
- • fbcracker •
+• fbcracker •
+
+### contact me
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 
 <img src="https://github.com/ROMI-AFRZL/fbcracker/blob/main/Ngentod/20210126_215235.png" width="640" title="Menu" alt="Menu"> 
 
