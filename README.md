@@ -33,3 +33,4 @@
 UserName : ROMI-AFRZL
 Password : ROMI-AFRZL
 ````
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=fbcracker&show_icons=true&theme=radical)</br>
